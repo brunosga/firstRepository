@@ -65,4 +65,4 @@ public class bloodType {
 	}
 }
 
-
+//I LOVE POTATO!!!
